@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "todo-app-5c4af": {
+      "hosting": {
+        "task-list-frontend": [
+          "todo-app-5c4af"
+        ]
+      }
+    }
+  }
+}
