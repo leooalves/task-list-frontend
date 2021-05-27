@@ -1,6 +1,6 @@
 <div class="user-card">
-    <img src="https://via.placeholder.com/200" alt="" class="user-image">
+    <img src="{{ user.picture }}" alt="{{ user.name }}" class="user-image">
     <br>
-    Leonardo Oliveira <br>
+    {{ user.name }} <br>
     <small><a (click)="logout()">sair</a></small>
 </div>

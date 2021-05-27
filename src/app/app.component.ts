@@ -20,6 +20,8 @@ export class AppComponent implements OnInit {
         this.router.navigateByUrl('/login');
       }
     })
+
+    this.angularFireAuth.idToken.subscribe(token => console.log(token));
   }
 
 }
