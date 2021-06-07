@@ -1,7 +1,8 @@
 # TaskListFrontend
 
-Frontend of the [task-list project](https://github.com/leooalves/task-list) based on [balta.io course](https://balta.io/cursos/todo-app-frontend-angular-firebase).
+Responsive angular project where you can easily create tasks, mark them as done and check the upcoming tasks.
 
+Frontend of the [task-list project](https://github.com/leooalves/task-list) based on [balta.io course](https://balta.io/cursos/todo-app-frontend-angular-firebase).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
 
